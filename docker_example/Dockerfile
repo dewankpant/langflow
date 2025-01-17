@@ -1,4 +1,4 @@
-FROM python:3.10-slim
+FROM python:3.14.0a1-slim
 
 RUN apt-get update && apt-get install gcc g++ git make -y
 RUN useradd -m -u 1000 user
