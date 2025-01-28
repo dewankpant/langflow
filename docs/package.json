@@ -44,7 +44,7 @@
     "react-transition-group": "^4.4.5",
     "remark-parse": "^10.0.2",
     "swizzle": "^1.1.0",
-    "tailwindcss": "^3.3.2"
+    "tailwindcss": "^4.0.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "2.4.1",
