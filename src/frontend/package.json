@@ -47,7 +47,7 @@
     "react-laag": "^2.0.5",
     "react-markdown": "^8.0.7",
     "react-router-dom": "^6.8.1",
-    "react-syntax-highlighter": "^15.5.0",
+    "react-syntax-highlighter": "^16.0.0",
     "react-tabs": "^6.0.0",
     "react-tooltip": "^5.13.1",
     "reactflow": "^11.5.5",
